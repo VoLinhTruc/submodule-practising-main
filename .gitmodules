@@ -1,0 +1,6 @@
+[submodule "third-party/sub-1"]
+	path = third-party/sub-1
+	url = https://github.com/bicotrucarduino/sub-1.git
+[submodule "third-party/sub-2"]
+	path = third-party/sub-2
+	url = https://github.com/bicotrucarduino/sub_2.git
